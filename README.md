@@ -1,5 +1,5 @@
 # Pomodoro-Clock-
-It is a modifed form of extension built orignally by <u>macmorning</u> to my preferences. 
+It is a modifed form of extension built orignally by <b>macmorning</b> to my preferences. 
 I didn't like the light mode and the "?" button.
 So, I changed it to have a dark mode, removed the "?" button.
 I also changed the logo (I found the logo to be really ugly).
