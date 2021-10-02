@@ -1,6 +1,8 @@
 # Pomodoro-Clock-
-It is a modifed form of extension built orignally by <b>macmorning</b> to my preferences. 
-I didn't like the light mode and the "?" button.
+It is an extension built orignally by <b>macmorning</b> that I modified to my preferences.
+The extension is really good. Infact, it is the best pomodoro extension for firefox that I have found.
+But I had a few problems with it. Namely, I didn't like the light mode and the "?" button.
+
 So, I changed it to have a dark mode, removed the "?" button.
 I also changed the logo (I found the logo to be really ugly).
 
