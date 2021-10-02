@@ -4,7 +4,7 @@
   "name": "Pomodoro clock",
   "version": "2.4.0",
   "description": "A simple pomodoro clock in your browser to hack your productivity.",
-  "homepage_url": "https://github.com/macmorning/pomodoro-webext",
+  "homepage_url": "https://github.com/raunak234/Pomodoro-Clock",
   "icons": {
     "48": "icons/clock-48.png"
   },
